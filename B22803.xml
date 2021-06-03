@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fair traders objections; against the bill, entituled, a bill for preventing clandestine trading, as it relates to the plantations of Virgina and Maryland.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22803</idno><idno type="EEBO-CITATION">99886116</idno>
+  <idno type="VID">185987</idno>
+  <idno type="EEBO-PROQUEST">2240896845</idno>
+  
+            <idno type="STC">Wing F102A</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[18]</idno>
+            <idno type="STC">ESTC R225475</idno>
+            <idno type="PROQUEST">ocm99886116</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886116e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185987)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fair traders objections; against the bill, entituled, a bill for preventing clandestine trading, as it relates to the plantations of Virgina and Maryland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tobacco industry --  Early works to 1800.</term>
+               <term type="topical_term">Trade regulation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  Commerce --  India --  Early works to 1800.</term>
+               <term type="geographic_name">Virginia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185987:1"/>
+            <head>The Fair Traders Objections, Against the BILL, Entituled, <hi>A Bill for preventing Clandestine Trading, as it relates to the Plantations of</hi> Virginia <hi>and</hi> Maryland.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>First Clause Enacts,</hi>
+                        <q rend="margQuotes">THat all Ships, under just Suspition of an Irregular Trade, by hover<g ref="char:EOLhyphen"/>ing and remaining unnecessarily near the Shoar, should be subject to a Search, and the Master obliged to declare his Con<g ref="char:EOLhyphen"/>signment, or in default subjects the Ship and Goods to a Forfeiture.</q>
+                     </cell>
+                     <cell>THe Declaration, in this Article, sub<g ref="char:EOLhyphen"/>jects the Owners and Merchants to Ruin, for the Transgressions of Masters and Saylors; whereas it is unreasonable, that Ships and Goods should be liable to a Pe<g ref="char:EOLhyphen"/>nalty, but only such Master, Marriners, and other Persons, concerned in Landing such Goods.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>3d, 4th and 5th Clauses Enact,</hi>
+                        <q rend="margQuotes">That all Persons shall make Oath, That he believes all the Goods that he Enters are of the growth of that Coun<g ref="char:EOLhyphen"/>try, and that they are his proper Goods, or some other English Person, or natu<g ref="char:EOLhyphen"/>turalized, otherwise amongst other Pe<g ref="char:EOLhyphen"/>nalties, subjects him to pay Aliens Duties.</q>
+                     </cell>
+                     <cell>This Clause ought not to extend to our Plantations, which daily Traffick one with another; and all the Persons, Inha<g ref="char:EOLhyphen"/>bitants of the Plantations, ought to be deemed the Subjects of the King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and not Aliens; there being many Traders there of our Neighbouring Na<g ref="char:EOLhyphen"/>tions, Inhabitants for Forty or Fifty Years.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>6th Clause Enacts,</hi>
+                        <q rend="margQuotes">That all Foreign Goods, cast or brought on Shoar, shall be delivered into the Possession of the Officers of the Customs, and detained by them, till the Payments of the Subsidy, and other Duties.</q>
+                     </cell>
+                     <cell>All such Goods, casually cast on Shoar (the Merchants first giving Security, as the Law directs) ought to be delivered im<g ref="char:EOLhyphen"/>mediately to the Merchants (several Goods being liable to a sudden Perishing) that they may be enabled to make the best of their Loss.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>9th Clause Enacts,</hi>
+                        <q rend="margQuotes">That no Post-Entry shall be practiced on any Goods, paying Custom by Tale or Measure, but only in Case where it may sometimes be necessary, on such Goods as pay Custom by Weight; and that that Parcel of Goods not to be de<g ref="char:EOLhyphen"/>livered, without a Deposite in the Ware<g ref="char:EOLhyphen"/>house for so much as he appears to be short entered, and no more suffered to be landed without a new Entry.</q>
+                     </cell>
+                     <cell>It is impossible in <hi>Plantation Goods</hi> (espe<g ref="char:EOLhyphen"/>cially <hi>Tobacco,</hi> considering the uncertainties of Weight and Damage) for the Merchants to make such an Entry, without making Post-Entries, which the Law allows; and this Clause seems to deprive them of, and oblige them to over-enter, and draw back by Certificate, which is an extreme Hard<g ref="char:EOLhyphen"/>ship and Charge, besides great Attendance, the Duty upon <hi>Tobacco</hi> being Six Pence <hi>per</hi> Pound.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>12th Clause Enacts,</hi>
+                        <q rend="margQuotes">That no Damage shall be allowed on any <hi>Tobacco,</hi> otherwise than that where the Merchants are Unwilling to pay the full Duty of any <hi>Tobacco,</hi> so much there<g ref="char:EOLhyphen"/>of being separated, shall be publickly Burnt as not wholsome; for use the King allowing—<hi>per</hi> Pound for Freight, provided there arises from the <hi>Old Subsi<g ref="char:EOLhyphen"/>dy,</hi> only upon <hi>Tobacco,</hi> out of the same Ship, to pay this Freight; and the Offi<g ref="char:EOLhyphen"/>cers of the Customs are not to resort elsewhere for this payment.</q>
+                     </cell>
+                     <cell>The Conditions of this Clause are alto<g ref="char:EOLhyphen"/>gether Impracticable, there being several sorts of Damages, which are impossible to be separated, without destroying the whole.</cell>
+                  </row>
+                  <row>
+                     <cell>And is also against the Eleventh Ar<g ref="char:EOLhyphen"/>ticle of the <hi>Book of Rates,</hi> which this Clause seems to strike at,</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>32d Clause Enacts,</hi>
+                        <q rend="margQuotes">That all Bonds being discharged, by regular Certificates of the <hi>Condition</hi> per<g ref="char:EOLhyphen"/>formed, shall be Cancelled; and that the Certificates shall remain annext to the Bond, to justifie the Officer in Cancelling the same.</q>
+                     </cell>
+                     <cell>All Bonds duly Certified ought to be delivered up, the Certificate being a suffi<g ref="char:EOLhyphen"/>cient discharge for the Officer.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:185987:2"/>
+            <p>Fair Traders REASONS against the Bill for preventing <hi>Clandestine TRADE.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
